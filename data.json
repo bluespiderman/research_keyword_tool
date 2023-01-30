@@ -1,0 +1,354 @@
+{
+    "ice": [
+        {
+            "id": 1,
+            "keyword": "ice",
+            "msv": 40,
+            "competition": "Low"
+        },
+        {
+            "id": 2,
+            "keyword": "intercontinental exchange",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 3,
+            "keyword": "the ice",
+            "msv": 40,
+            "competition": "Low"
+        },
+        {
+            "id": 4,
+            "keyword": "ice usa",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 5,
+            "keyword": "ice exchange",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 6,
+            "keyword": "ice data services",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 7,
+            "keyword": "ice market",
+            "msv": 10,
+            "competition": "Low"
+        },
+        {
+            "id": 8,
+            "keyword": "ice civil engineers",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 9,
+            "keyword": "ice company",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 10,
+            "keyword": "ice company",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 11,
+            "keyword": "ice company",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 12,
+            "keyword": "ice company",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        }
+    ],
+    "ice_url": [
+        {
+            "id": 1,
+            "keyword": "ice",
+            "msv": 40,
+            "competition": "LOW"
+        },
+        {
+            "id": 2,
+            "keyword": "ice civil engineers",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        }
+    ],
+    "gift": [
+        {
+            "id": 1,
+            "keyword": "gift",
+            "msv": 4400,
+            "competition": "HIGH"
+        },
+        {
+            "id": 2,
+            "keyword": "steam gift",
+            "msv": 20,
+            "competition": "HIGH"
+        },
+        {
+            "id": 3,
+            "keyword": "gift card paypal",
+            "msv": 110,
+            "competition": "HIGH"
+        },
+        {
+            "id": 4,
+            "keyword": "green gift",
+            "msv": 590,
+            "competition": "HIGH"
+        },
+        {
+            "id": 5,
+            "keyword": "gift card spotify",
+            "msv": 10,
+            "competition": "HIGH"
+        },
+        {
+            "id": 6,
+            "keyword": "card roblox",
+            "msv": 140,
+            "competition": "HIGH"
+        },
+        {
+            "id": 7,
+            "keyword": "gift card nike",
+            "msv": 10,
+            "competition": "Low"
+        },
+        {
+            "id": 8,
+            "keyword": "voucher ikea",
+            "msv": 70,
+            "competition": "LOW"
+        },
+        {
+            "id": 9,
+            "keyword": "gift card carrefour",
+            "msv": 40,
+            "competition": "HIGH"
+        },
+        {
+            "id": 10,
+            "keyword": "card steam",
+            "msv": 320,
+            "competition": "HIGH"
+        },
+        {
+            "id": 11,
+            "keyword": "gift 2021",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 12,
+            "keyword": "i gift",
+            "msv": 10,
+            "competition": "HIGH"
+        },
+        {
+            "id": 13,
+            "keyword": "طاقة هدايا أمازو",
+            "msv": 10,
+            "competition": "HIGH"
+        },
+        {
+            "id": 14,
+            "keyword": "ود بطاقة امازون مجانا",
+            "msv": 10,
+            "competition": "LOW"
+        },
+        {
+            "id": 15,
+            "keyword": "eneba 1000 ars",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 16,
+            "keyword": "بطاقه هديه",
+            "msv": 20,
+            "competition": "HIGH"
+        },
+        {
+            "id": 17,
+            "keyword": "birra moretti gifts",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 18,
+            "keyword": "اقات امازون مجان",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 19,
+            "keyword": "طاقة امازون مجانا",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 20,
+            "keyword": "لى amazon gift card مجانا",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 21,
+            "keyword": "هديه",
+            "msv": 40,
+            "competition": "HIGH"
+        },
+        {
+            "id": 22,
+            "keyword": "ود بطاقة أمازون مجانا",
+            "msv": 10,
+            "competition": "MEDIUM"
+        },
+        {
+            "id": 23,
+            "keyword": "دايا امازون",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 24,
+            "keyword": "روت هدايا",
+            "msv": 10,
+            "competition": "HIGH"
+        }
+    ],
+    "life": [
+        {
+            "id": 1,
+            "keyword": "life",
+            "msv": 8100,
+            "competition": "Low"
+        },
+        {
+            "id": 2,
+            "keyword": "life in a year",
+            "msv": 390,
+            "competition": "LOW"
+        },
+        {
+            "id": 3,
+            "keyword": "life of pi",
+            "msv": 1600,
+            "competition": "LOW"
+        },
+        {
+            "id": 4,
+            "keyword": "after life",
+            "msv": 2400,
+            "competition": "LOW"
+        },
+        {
+            "id": 5,
+            "keyword": "life is beautiful",
+            "msv": 8100,
+            "competition": "LOW"
+        },
+        {
+            "id": 6,
+            "keyword": "all my life",
+            "msv": 880,
+            "competition": "LOW"
+        },
+        {
+            "id": 7,
+            "keyword": "love life",
+            "msv": 260,
+            "competition": "Low"
+        },
+        {
+            "id": 8,
+            "keyword": "the secret life of walter mitty",
+            "msv": 290,
+            "competition": "LOW"
+        },
+        {
+            "id": 9,
+            "keyword": "life as we know it",
+            "msv": 170,
+            "competition": "LOW"
+        }
+    ],
+    "dad": [
+        {
+            "id": 1,
+            "keyword": "mother's day gifts amazon",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 2,
+            "keyword": "apple gift card deals",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 3,
+            "keyword": "women's golf olympics 2021",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 4,
+            "keyword": "petty who i love you always forever",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 5,
+            "keyword": "who been on your mind who got your time",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 6,
+            "keyword": "who has the biggest fandom in the world",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 7,
+            "keyword": "birthday surprise for boyfriend",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 8,
+            "keyword": "gluten free gift baskets",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 9,
+            "keyword": "9th wedding anniversary gift",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        },
+        {
+            "id": 10,
+            "keyword": "dont know who i want you the one i want",
+            "msv": 10,
+            "competition": "UNSPECIFIED"
+        }
+    ]
+}
